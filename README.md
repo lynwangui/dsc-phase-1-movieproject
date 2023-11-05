@@ -1,9 +1,8 @@
 Final Project Submission
-Please fill out:
 
 Student name: Linet Wangui 
 
-Student pace: self paced / part time / full time
+Student pace: part time
 
 Scheduled project review date/time:
 
